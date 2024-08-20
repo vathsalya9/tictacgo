@@ -18,6 +18,8 @@ TicTacGo is a modern implementation of the classic Tic-Tac-Toe game built using 
 
 <div>
         <img src="https://github.com/user-attachments/assets/943badfd-14be-4b42-b374-f41225a7dab7" alt="Image 1">
+</div>
+<div>
         <img src="https://github.com/user-attachments/assets/f38627db-e27a-4e1d-abda-e4968ba62920" alt="Image 2">
 </div>
 
